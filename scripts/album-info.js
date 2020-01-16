@@ -5,3 +5,4 @@
 	$ ('#release-info').text(album.releaseInfo);
 	
 }
+
